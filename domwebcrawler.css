@@ -1,0 +1,13 @@
+.pins {
+	padding: 1%;
+	margin:1%;
+	border:solid 3px black;
+	width: 200px;
+}
+
+.pinimg img{
+	width:100%;
+}
+.description, .repin_count {
+	text-align: center;
+}
